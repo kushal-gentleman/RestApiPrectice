@@ -1,0 +1,32 @@
+package restapi;
+
+import io.restassured.RestAssured;
+import static io.restassured.RestAssured.*;
+
+public class Basics {
+
+	
+	
+	
+	
+	
+	public void basics() {
+		
+		
+		RestAssured.baseURI ="https://rahulshettyacademy.com";
+		
+//		given().log().all().queryParam("key", "qaclick123").header("Content-Type", "application/json")
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+}
